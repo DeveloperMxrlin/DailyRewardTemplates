@@ -1,0 +1,8 @@
+id: "friends-02"
+title: "&6Yummy!"
+permission: "daily.friends02"
+redeemTime: "1h"
+showcaseBlock: "CAKE"
+level:
+  1:
+    - "GIVE CAKE"

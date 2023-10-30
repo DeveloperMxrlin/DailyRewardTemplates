@@ -1,0 +1,8 @@
+id: "minigame-02"
+title: "&6Premium"
+permission: "daily.minigame02"
+redeemTime: "1d"
+showcaseBlock: "IRON_SWORD"
+level:
+  1:
+    - "ADD_BALANCE 250"

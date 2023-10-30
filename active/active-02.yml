@@ -1,0 +1,8 @@
+id: "active-02"
+title: "&aPermanently Online"
+permission: "daily.active02"
+redeemTime: "1h"
+showcaseBlock: "GOLD_NUGGET"
+level:
+  1:
+    - "ADD_BALANCE 10"

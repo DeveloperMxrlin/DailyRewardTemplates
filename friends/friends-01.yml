@@ -1,0 +1,8 @@
+id: "friends-01"
+title: "&bDiaaaaaamonds!"
+permission: "daily.friends01"
+redeemTime: "1d"
+showcaseBlock: "DIAMOND"
+level:
+  1:
+    - "GIVE DIAMOND"

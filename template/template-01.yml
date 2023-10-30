@@ -1,0 +1,8 @@
+id: "template-01"
+title: "&7Template"
+permission: "daily.template01"
+redeemTime: "1d"
+showcaseBlock: "STONE"
+level:
+  1:
+    - "ADD_BALANCE 50"

@@ -1,0 +1,8 @@
+id: "minigame-03"
+title: "&bVIP"
+permission: "daily.minigame03"
+redeemTime: "1d"
+showcaseBlock: "DIAMOND_SWORD"
+level:
+  1:
+    - "ADD_BALANCE 500"

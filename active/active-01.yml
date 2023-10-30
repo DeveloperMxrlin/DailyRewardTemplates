@@ -1,0 +1,8 @@
+id: "active-01"
+title: "&aActive"
+permission: "daily.active01"
+redeemTime: "3h"
+showcaseBlock: "GOLD_INGOT"
+level:
+  1:
+    - "ADD_BALANCE 50"

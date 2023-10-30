@@ -1,0 +1,8 @@
+id: "minigame-01"
+title: "&7Starter"
+permission: "daily.minigame01"
+redeemTime: "1d"
+showcaseBlock: "STONE_SWORD"
+level:
+  1:
+    - "ADD_BALANCE 100"
